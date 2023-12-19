@@ -8,40 +8,8 @@ MovieTime is a user-friendly and convenient online platform for booking cinema t
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,php,mysql&theme=dark)](https://github.com/iamcoderdevesh)
 
-## Screenshots
-
-- Home Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(515).png)
-
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(516).png)
-
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(523).jpeg)
-
-- Login Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(520).png)
-
-- Movie Details Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(524).jpeg)
-
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(526).jpeg)
-
-- Book Seat Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(518).png)
-
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(521).jpeg)
-
-- Payment Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(519).png)
-
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(522).jpeg)
-
-- Print Ticket Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(415).png)
-
-![App Screenshot](https://intensional-chair.000webhostapp.com/MovieTime/Screenshot%20(521).png)
-
 ## 🔗 Demo
-[![Visit Website](https://img.shields.io/badge/-%20Visit%20Site-blue?style=for-the-badge)](https://bit.ly/movietimez)
+[![Visit Website](https://img.shields.io/badge/-%20Visit%20Site-blue?style=for-the-badge)](https://inundated-lenders.000webhostapp.com)
 
 ## 🚀 About Me
 - 👋 Hi, I’m Devesh Ukalkar
