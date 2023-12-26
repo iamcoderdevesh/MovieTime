@@ -9,7 +9,7 @@ MovieTime is a user-friendly and convenient online platform for booking cinema t
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,php,mysql&theme=dark)](https://github.com/iamcoderdevesh)
 
 ## 🔗 Demo
-[![Visit Website](https://img.shields.io/badge/-%20Visit%20Site-blue?style=for-the-badge)](https://inundated-lenders.000webhostapp.com)
+[![Visit Website](https://img.shields.io/badge/-%20Visit%20Site-blue?style=for-the-badge)](https://movietimess.000webhostapp.com)
 
 ## 🚀 About Me
 - 👋 Hi, I’m Devesh Ukalkar
