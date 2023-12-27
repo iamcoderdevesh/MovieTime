@@ -1,3 +1,4 @@
+
 # MovieTime Website
 ## Abstract:
 
@@ -10,6 +11,14 @@ MovieTime is a user-friendly and convenient online platform for booking cinema t
 
 ## 🔗 Demo
 [![Visit Website](https://img.shields.io/badge/-%20Visit%20Site-blue?style=for-the-badge)](https://movietimess.000webhostapp.com)
+
+## 🔗 Download
+
+**MovieTime also comes with its own Android App.**
+
+You can Download the Apk from GitHub
+
+[<img src="readme_content/github-badge.png" alt="Get it on GitHub" height="80">](https://github.com/iamcoderdevesh/MovieTime-App/releases/tag/v1.0.0s)
 
 ## 🚀 About Me
 - 👋 Hi, I’m Devesh Ukalkar
